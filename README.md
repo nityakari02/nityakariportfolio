@@ -8,10 +8,10 @@ This repository is a comprehensive collection of the diverse and impactful Data 
 - **Technologies:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Jupyter Notebook
 - **Repository:** [Music Popularity Prediction](https://github.com/nityakari02/musicpopularityprediction.git)
 
-### 2. Retail Sales Forecasting
-- **Description:** Implemented advanced time series analysis techniques to forecast future sales for a major retail company. Leveraged ARIMA and Facebook Prophet models to predict sales trends, aiding in inventory management and sales strategy planning to enhance operational efficiency and profitability.
-- **Technologies:** R, ggplot2, forecast, Prophet
-- **Repository:** [Retail Sales Forecasting](https://github.com/yourusername/retail-sales-forecasting)
+### 2. Clustering Fashion Retail Sales Data
+- **Description:** Performed a clustering analysis on fashion retail sales data to uncover patterns in customer satisfaction based on purchase amounts. The primary goal was to identify whether customers' satisfaction ratings cluster into meaningful groups based on the amount they spend. This analysis provides insights into customer behavior and the relationship between purchase amounts and satisfaction levels, aiding in targeted marketing strategies and customer service improvements.
+- **Technologies:** R, RStudio, tidyverse, cluster, NbClust, aricode, factoextra, ggplot2
+- **Repository:** [Clustering Fashion Retail Sales Data](https://github.com/nityakari02/fashionclusteringanalysis.git)
 
 ### 3. Twitter Sentiment Analysis
 - **Description:** Conducted an in-depth sentiment analysis on Twitter data to gauge public opinion on trending topics. Applied natural language processing (NLP) techniques to analyze tweet sentiments, uncovering valuable insights into public mood and perception that can inform marketing and communication strategies.
