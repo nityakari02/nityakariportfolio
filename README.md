@@ -13,10 +13,10 @@ This repository is a comprehensive collection of the diverse and impactful Data 
 - **Technologies:** R, RStudio, tidyverse, cluster, NbClust, aricode, factoextra, ggplot2
 - **Repository:** [Clustering Fashion Retail Sales Data](https://github.com/nityakari02/fashionclusteringanalysis.git)
 
-### 3. Twitter Sentiment Analysis
-- **Description:** Conducted an in-depth sentiment analysis on Twitter data to gauge public opinion on trending topics. Applied natural language processing (NLP) techniques to analyze tweet sentiments, uncovering valuable insights into public mood and perception that can inform marketing and communication strategies.
-- **Technologies:** Python, NLTK, Tweepy, Seaborn
-- **Repository:** [Twitter Sentiment Analysis](https://github.com/yourusername/twitter-sentiment-analysis)
+### 3. Predictive Analysis of Diabetes in Pima Indian Females Using Diagnostic Measurements
+- **Description:** Conducted an in-depth predictive analysis on a dataset of Pima Indian females to determine the relationship between various health metrics and diabetes status. Applied logistic regression and other statistical techniques to analyze diagnostic measurements, uncovering valuable insights into the predictors of diabetes that can inform healthcare practices and early intervention strategies.
+- **Technologies:** R, tidyverse, caret, rms, factoextra, ggplot2
+- **Repository:** [Predictive Analysis of Diabetes](https://github.com/nityakari02/predictiveanalysisdiabetes.git)
 
 ### 4. Health Data Visualization
 - **Description:** Designed and developed interactive visualizations to explore and interpret health data, focusing on trends such as disease prevalence and healthcare access disparities. These visualizations empower stakeholders to make informed, data-driven decisions to improve public health outcomes.
