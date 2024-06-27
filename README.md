@@ -18,10 +18,10 @@ This repository is a comprehensive collection of the diverse and impactful Data 
 - **Technologies:** R, tidyverse, caret, rms, factoextra, ggplot2
 - **Repository:** [Predictive Analysis of Diabetes](https://github.com/nityakari02/predictiveanalysisdiabetes.git)
 
-### 4. Health Data Visualization
-- **Description:** Designed and developed interactive visualizations to explore and interpret health data, focusing on trends such as disease prevalence and healthcare access disparities. These visualizations empower stakeholders to make informed, data-driven decisions to improve public health outcomes.
-- **Technologies:** Tableau, Excel
-- **Repository:** [Health Data Visualization](https://github.com/yourusername/health-data-visualization)
+### 4. An Analysis of Physicochemical Factors in Red Portuguese 'Vinho Verde' Wine Quality
+- **Description:** Conducted an in-depth analysis of the physicochemical properties of red wine to predict its quality. Applied various statistical methods to analyze the relationship between wine properties and quality, uncovering valuable insights that can inform wine production and quality control processes.
+- **Technologies:** R, tidyverse, corrplot, psych, caret, glmnet, rms, factoextra, ggplot2, GGally
+- **Repository:** [Physicochemical Wine Quality](https://github.com/nityakari02/physicochemicalwinequality.git)
 
 ### 5. Predictive Maintenance for Manufacturing
 - **Description:** Engineered a machine learning model to predict maintenance needs for manufacturing equipment. By accurately forecasting equipment failures, the model helps in scheduling timely maintenance interventions, reducing downtime, and increasing overall operational efficiency.
