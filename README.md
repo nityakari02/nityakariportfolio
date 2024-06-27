@@ -28,10 +28,10 @@ This repository is a comprehensive collection of the diverse and impactful Data 
 - **Technologies:** Python, Scikit-Learn, TensorFlow, Keras
 - **Repository:** [Predictive Maintenance](https://github.com/yourusername/predictive-maintenance)
 
-### 6. COVID-19 Data Analysis
-- **Description:** Analyzed global COVID-19 data to identify critical trends and patterns. Created comprehensive dashboards to visualize key metrics such as infection rates, mortality, and recovery statistics across different regions, providing valuable insights for policymakers and public health officials.
-- **Technologies:** Python, Pandas, Matplotlib, Plotly
-- **Repository:** [COVID-19 Data Analysis](https://github.com/yourusername/covid-19-data-analysis)
+### 6. Utilizing Generative AI to Improve Health Literacy: Health Info GPT
+- **Description:** Developed an AI application using OpenAI GPTBuilder to condense complex health information into simpler, more digestible main points, with options for further simplification and translation into other languages like Spanish. This tool will also allow users to highlight specific keywords to locate and understand relevant information efficiently.
+- **Technologies:** OpenAI GPT Builder, OpenAI Actions, OpenAI Knowledge Base
+- **Repository:** [Health Info GPT](https://github.com/nityakari02/HealthInfoHelper.git)
 
 ## 🌟 About Me
 
