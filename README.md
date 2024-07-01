@@ -40,7 +40,7 @@ This repository is a comprehensive collection of the diverse and impactful Data 
 
 ## 🌟 About Me
 
-I am a dedicated and passionate Data Scientist with a solid background in data analysis, machine learning, and statistical modeling. My journey in Data Science is fueled by a relentless curiosity and a drive to solve challenging problems through data-driven insights. I am committed to accuracy, integrity, and continuous improvement, ensuring that my work not only meets but exceeds the highest standards of quality.
+I am a recent graduate of Vanderbilt University, where I earned a B.A. in Medicine, Health, and Society with Highest Honors, alongside minors in Data Science and South Asian Language and Culture. I am proficient in data analysis, data visualization, machine learning, and statistical modeling. My journey in data science is driven by a relentless curiosity and a passion for solving challenging problems through evidence-based insights. I am dedicated to accuracy, integrity, and continuous improvement, ensuring my work consistently meets and exceeds the highest quality standards. I am eager to further hone my data science skills and provide impactful, data-driven insights.
 
 ## 🔗 Contact
 
@@ -49,11 +49,13 @@ I am a dedicated and passionate Data Scientist with a solid background in data a
 
 ## 📈 Skills and Technologies
 
-- **Programming Languages:** Python, R, SQL
-- **Data Analysis:** Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, STATA, SAS
-- **Data Visualization:** Matplotlib, Seaborn, Tableau, Plotly, ggplot2
-- **Tools:** Git, Jupyter Notebooks, RStudio, Excel, REDCap, Slack, Monday.com, Notion, Microsoft Teams Planner
-- **Methodologies:** Logistic Regression, Decision Trees, Time Series Analysis, Natural Language Processing, Predictive Modeling, Statistical Analysis
+**Programming Languages:** R Programming Language, STATA, Python, JAVA, MATLAB, SAS
+**Data Analysis/Visualization:** Pandas, NumPy, Sci-Kit Learn, PyTorch, ggplot2, Seaborn, Matplotlib, Tableau Desktop, Tableau Prep, Tableau Server, Tidyverse, cluster, NbClust, aricode, factoextra, corrplot, psych, caret, glmnet, GGally, dplyr, tidyr
+**Editing Software:** Microsoft Office Suite, G Suite, Adobe PDF, Canva, Wix, WordPress, Procreate, Audacity, LaTeX
+**Research Tools:** Covidence, REDCap
+**Development Environments:** Jupyter Notebook, Anaconda Navigator, RStudio
+**AI and Machine Learning:** OpenAI GPTBuilder, OpenAI Actions, OpenAI Knowledge Base
+**Version Control:** GitHub
 
 Feel free to explore my projects and reach out if you have any questions or ideas for collaboration. I am always eager to connect with fellow data enthusiasts and professionals!
 
