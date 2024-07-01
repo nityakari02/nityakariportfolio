@@ -54,7 +54,7 @@ I am a recent graduate of Vanderbilt University, where I earned a B.A. in Medici
 - **Editing Software:** Microsoft Office Suite, G Suite, Adobe PDF, Canva, Wix, WordPress, Procreate, Audacity, LaTeX
 - **Research Tools:** Covidence, REDCap
 - **Development Environments:** Jupyter Notebook, Anaconda Navigator, RStudio, Google Colab
-- **AI and Machine Learning:** OpenAI GPTBuilder, OpenAI Actions, OpenAI Knowledge Base, DALL-E, COde Interpreter, LLM-based Agents
+- **AI and Machine Learning:** OpenAI GPTBuilder, OpenAI Actions, OpenAI Knowledge Base, DALL-E, Code Interpreter, LLM-based Agents
 - **Version Control:** GitHub
 
 Feel free to explore my projects and reach out if you have any questions or ideas for collaboration. I am always eager to connect with fellow data enthusiasts and professionals!
