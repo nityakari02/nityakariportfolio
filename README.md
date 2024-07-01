@@ -1,6 +1,15 @@
 # Hi, I'm Nitya Kari! Welcome to my Data Science Portfolio.
 This repository is a comprehensive collection of the diverse and impactful Data Science and Data Analysis projects I have undertaken. These projects span academic coursework, self-learning endeavors, and professional experiences, demonstrating my expertise in various data analysis techniques, advanced programming languages, and robust statistical methodologies. Each project showcases my ability to extract meaningful insights from data, solve complex problems, and provide actionable recommendations. I regularly update this portfolio to reflect my latest skills and ongoing professional development.
 
+## 🌟 About Me
+
+I am a recent graduate of Vanderbilt University, where I earned a B.A. in Medicine, Health, and Society with Highest Honors, alongside minors in Data Science and South Asian Language and Culture. I am proficient in data analysis, data visualization, machine learning, and statistical modeling. My journey in data science is driven by a relentless curiosity and a passion for solving challenging problems through evidence-based insights. I am dedicated to accuracy, integrity, and continuous improvement, ensuring my work consistently meets and exceeds the highest quality standards. I am eager to further hone my data science skills and provide impactful, data-driven insights.
+
+## 🔗 Contact
+
+- **LinkedIn:** [Nitya Kari](https://www.linkedin.com/in/nityakari)
+- **Email:** nityakari02@gmail.com
+
 ## 📊 Projects
 
 ### 1. Music Popularity Prediction
@@ -37,15 +46,6 @@ This repository is a comprehensive collection of the diverse and impactful Data 
 - **Description:** Developed a comprehensive Tableau dashboard to analyze and visualize demographic survey data from Pew Research Center's American Trends Panel, specifically from Wave 114 conducted from September 13 to September 18, 2022. The dashboard provides insights into various respondent demographics and key metrics, including participant age, gender, census region, and metropolitan area. The dashboard provides visualizations that are valuable for researchers, policy-makers, and data enthusiasts.
 - **Technologies:** Tableau Desktop, Tableau Prep, Tableau Server, R, RStudio, dplyr, tidyr, haven
 - **Repository:** [American Trends Panel W114 Demographics](https://github.com/nityakari02/ATP2024Demographics.git)
-
-## 🌟 About Me
-
-I am a recent graduate of Vanderbilt University, where I earned a B.A. in Medicine, Health, and Society with Highest Honors, alongside minors in Data Science and South Asian Language and Culture. I am proficient in data analysis, data visualization, machine learning, and statistical modeling. My journey in data science is driven by a relentless curiosity and a passion for solving challenging problems through evidence-based insights. I am dedicated to accuracy, integrity, and continuous improvement, ensuring my work consistently meets and exceeds the highest quality standards. I am eager to further hone my data science skills and provide impactful, data-driven insights.
-
-## 🔗 Contact
-
-- **LinkedIn:** [Nitya Kari](https://www.linkedin.com/in/nityakari)
-- **Email:** nityakari02@gmail.com
 
 ## 📈 Skills and Technologies
 
