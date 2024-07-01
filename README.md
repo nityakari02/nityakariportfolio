@@ -5,7 +5,7 @@ This repository is a comprehensive collection of the diverse and impactful Data 
 
 ### 1. Music Popularity Prediction
 - **Description:** Developed a comprehensive analysis to predict the popularity of songs using machine learning techniques. By leveraging features such as loudness and danceability, the project aims to classify songs as popular or not accurately. Implemented K-Nearest Neighbors (KNN) and Logistic Regression models to evaluate the predictive power of these features and conducted extensive data visualization and model evaluation to ensure robust results.
-- **Technologies:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Jupyter Notebook
+- **Technologies:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Jupyter Notebook, Anaconda Navigator
 - **Repository:** [Music Popularity Prediction](https://github.com/nityakari02/musicpopularityprediction.git)
 
 ### 2. Clustering Fashion Retail Sales Data
@@ -15,12 +15,12 @@ This repository is a comprehensive collection of the diverse and impactful Data 
 
 ### 3. Predictive Analysis of Diabetes in Pima Indian Females Using Diagnostic Measurements
 - **Description:** Conducted an in-depth predictive analysis on a dataset of Pima Indian females to determine the relationship between various health metrics and diabetes status. Applied logistic regression and other statistical techniques to analyze diagnostic measurements, uncovering valuable insights into the predictors of diabetes that can inform healthcare practices and early intervention strategies.
-- **Technologies:** R, tidyverse, caret, rms, factoextra, ggplot2
+- **Technologies:** R, RStudio, tidyverse, caret, rms, factoextra, ggplot2
 - **Repository:** [Predictive Analysis of Diabetes](https://github.com/nityakari02/predictiveanalysisdiabetes.git)
 
 ### 4. An Analysis of Physicochemical Factors in Red Portuguese 'Vinho Verde' Wine Quality
 - **Description:** Conducted an in-depth analysis of the physicochemical properties of red wine to predict its quality. Applied various statistical methods to analyze the relationship between wine properties and quality, uncovering valuable insights that can inform wine production and quality control processes.
-- **Technologies:** R, tidyverse, corrplot, psych, caret, glmnet, rms, factoextra, ggplot2, GGally
+- **Technologies:** R, RStudio, tidyverse, corrplot, psych, caret, glmnet, rms, factoextra, ggplot2, GGally
 - **Repository:** [Physicochemical Wine Quality](https://github.com/nityakari02/physicochemicalwinequality.git)
 
 ### 5. Utilizing Generative AI to Improve Health Literacy: Health Info GPT
@@ -33,10 +33,10 @@ This repository is a comprehensive collection of the diverse and impactful Data 
 - **Technologies:** Tableau Desktop, Tableau Server
 - **Repository:** [2024 Spotify Popularity](https://github.com/nityakari02/2024SpotifyPopularity.git)
 
-### 7. 2024 Spotify Track Popularity Trends
-- **Description:** Developed a comprehensive Tableau dashboard to analyze and visualize Spotify track popularity trends for the year 2024. The dashboard provides insights into various aspects of track performance, including the most popular genres, artists, and individual tracks. It includes data on the number of top-streamed songs in 2024 from the past 30 years, a ranking of artists based on the number of their songs streamed, and a visualization of albums with the highest number of streamed songs. Additionally, it features an analysis of track scores in relation to their popularity across different streaming platforms and a pie chart showing the proportion of explicit vs. non-explicit top-streamed songs. The dashboard can also filter data based on the explicitness of the song. The project aims to provide valuable insights for music industry stakeholders, artists, and data enthusiasts.
-- **Technologies:** Tableau Desktop, Tableau Server
-- **Repository:** [2024 Spotify Popularity](https://github.com/nityakari02/2024SpotifyPopularity.git)
+### 7. Pew Research Center's American Trends Panel W114 Demographic Dashboard
+- **Description:** Developed a comprehensive Tableau dashboard to analyze and visualize demographic survey data from Pew Research Center's American Trends Panel, specifically from Wave 114 conducted from September 13 to September 18, 2022. The dashboard provides insights into various respondent demographics and key metrics, including participant age, gender, census region, and metropolitan area. The dashboard provides visualizations that are valuable for researchers, policy-makers, and data enthusiasts.
+- **Technologies:** Tableau Desktop, Tableau Prep, Tableau Server, R, RStudio, dplyr, tidyr, haven
+- **Repository:** [American Trends Panel W114 Demographics](https://github.com/nityakari02/ATP2024Demographics.git)
 
 ## 🌟 About Me
 
@@ -45,7 +45,7 @@ I am a dedicated and passionate Data Scientist with a solid background in data a
 ## 🔗 Contact
 
 - **LinkedIn:** [Nitya Kari](https://www.linkedin.com/in/nityakari)
-- **Email:** your.email@example.com
+- **Email:** nityakari02@gmail.com
 
 ## 📈 Skills and Technologies
 
