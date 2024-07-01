@@ -49,7 +49,7 @@ I am a recent graduate of Vanderbilt University, where I earned a B.A. in Medici
 
 ## 📈 Skills and Technologies
 
-- **Programming Languages:** R Programming Language, STATA, Python, JAVA, MATLAB, SAS
+- **Programming Languages:** R Programming Language, STATA, Python, JAVA, MATLAB, SAS, SQL
 - **Data Analysis/Visualization:** Pandas, NumPy, Sci-Kit Learn, PyTorch, ggplot2, Seaborn, Matplotlib, Tableau Desktop, Tableau Prep, Tableau Server, Tidyverse, cluster, NbClust, aricode, factoextra, corrplot, psych, caret, glmnet, GGally, dplyr, tidyr
 - **Editing Software:** Microsoft Office Suite, G Suite, Adobe PDF, Canva, Wix, WordPress, Procreate, Audacity, LaTeX
 - **Research Tools:** Covidence, REDCap
