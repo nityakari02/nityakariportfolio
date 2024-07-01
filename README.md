@@ -23,15 +23,20 @@ This repository is a comprehensive collection of the diverse and impactful Data 
 - **Technologies:** R, tidyverse, corrplot, psych, caret, glmnet, rms, factoextra, ggplot2, GGally
 - **Repository:** [Physicochemical Wine Quality](https://github.com/nityakari02/physicochemicalwinequality.git)
 
-### 5. Predictive Maintenance for Manufacturing
-- **Description:** Engineered a machine learning model to predict maintenance needs for manufacturing equipment. By accurately forecasting equipment failures, the model helps in scheduling timely maintenance interventions, reducing downtime, and increasing overall operational efficiency.
-- **Technologies:** Python, Scikit-Learn, TensorFlow, Keras
-- **Repository:** [Predictive Maintenance](https://github.com/yourusername/predictive-maintenance)
-
-### 6. Utilizing Generative AI to Improve Health Literacy: Health Info GPT
+### 5. Utilizing Generative AI to Improve Health Literacy: Health Info GPT
 - **Description:** Developed an AI application using OpenAI GPTBuilder to condense complex health information into simpler, more digestible main points, with options for further simplification and translation into other languages like Spanish. This tool will also allow users to highlight specific keywords to locate and understand relevant information efficiently.
 - **Technologies:** OpenAI GPT Builder, OpenAI Actions, OpenAI Knowledge Base
 - **Repository:** [Health Info GPT](https://github.com/nityakari02/HealthInfoHelper.git)
+
+### 6. 2024 Spotify Track Popularity Trends
+- **Description:** Developed a comprehensive Tableau dashboard to analyze and visualize Spotify track popularity trends for the year 2024. The dashboard provides insights into various aspects of track performance, including the most popular genres, artists, and individual tracks. It includes data on the number of top-streamed songs in 2024 from the past 30 years, a ranking of artists based on the number of their songs streamed, and a visualization of albums with the highest number of streamed songs. Additionally, it features an analysis of track scores in relation to their popularity across different streaming platforms and a pie chart showing the proportion of explicit vs. non-explicit top-streamed songs. The dashboard can also filter data based on the explicitness of the song. The project aims to provide valuable insights for music industry stakeholders, artists, and data enthusiasts.
+- **Technologies:** Tableau Desktop, Tableau Server
+- **Repository:** [2024 Spotify Popularity](https://github.com/nityakari02/2024SpotifyPopularity.git)
+
+### 7. 2024 Spotify Track Popularity Trends
+- **Description:** Developed a comprehensive Tableau dashboard to analyze and visualize Spotify track popularity trends for the year 2024. The dashboard provides insights into various aspects of track performance, including the most popular genres, artists, and individual tracks. It includes data on the number of top-streamed songs in 2024 from the past 30 years, a ranking of artists based on the number of their songs streamed, and a visualization of albums with the highest number of streamed songs. Additionally, it features an analysis of track scores in relation to their popularity across different streaming platforms and a pie chart showing the proportion of explicit vs. non-explicit top-streamed songs. The dashboard can also filter data based on the explicitness of the song. The project aims to provide valuable insights for music industry stakeholders, artists, and data enthusiasts.
+- **Technologies:** Tableau Desktop, Tableau Server
+- **Repository:** [2024 Spotify Popularity](https://github.com/nityakari02/2024SpotifyPopularity.git)
 
 ## 🌟 About Me
 
