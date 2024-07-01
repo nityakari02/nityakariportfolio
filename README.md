@@ -49,13 +49,13 @@ I am a recent graduate of Vanderbilt University, where I earned a B.A. in Medici
 
 ## 📈 Skills and Technologies
 
-**Programming Languages:** R Programming Language, STATA, Python, JAVA, MATLAB, SAS
-**Data Analysis/Visualization:** Pandas, NumPy, Sci-Kit Learn, PyTorch, ggplot2, Seaborn, Matplotlib, Tableau Desktop, Tableau Prep, Tableau Server, Tidyverse, cluster, NbClust, aricode, factoextra, corrplot, psych, caret, glmnet, GGally, dplyr, tidyr
-**Editing Software:** Microsoft Office Suite, G Suite, Adobe PDF, Canva, Wix, WordPress, Procreate, Audacity, LaTeX
-**Research Tools:** Covidence, REDCap
-**Development Environments:** Jupyter Notebook, Anaconda Navigator, RStudio
-**AI and Machine Learning:** OpenAI GPTBuilder, OpenAI Actions, OpenAI Knowledge Base
-**Version Control:** GitHub
+- **Programming Languages:** R Programming Language, STATA, Python, JAVA, MATLAB, SAS
+- **Data Analysis/Visualization:** Pandas, NumPy, Sci-Kit Learn, PyTorch, ggplot2, Seaborn, Matplotlib, Tableau Desktop, Tableau Prep, Tableau Server, Tidyverse, cluster, NbClust, aricode, factoextra, corrplot, psych, caret, glmnet, GGally, dplyr, tidyr
+- **Editing Software:** Microsoft Office Suite, G Suite, Adobe PDF, Canva, Wix, WordPress, Procreate, Audacity, LaTeX
+- **Research Tools:** Covidence, REDCap
+- **Development Environments:** Jupyter Notebook, Anaconda Navigator, RStudio, Google Colab
+- **AI and Machine Learning:** OpenAI GPTBuilder, OpenAI Actions, OpenAI Knowledge Base, DALL-E, COde Interpreter, LLM-based Agents
+- **Version Control:** GitHub
 
 Feel free to explore my projects and reach out if you have any questions or ideas for collaboration. I am always eager to connect with fellow data enthusiasts and professionals!
 
