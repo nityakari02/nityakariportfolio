@@ -28,22 +28,22 @@ I am a recent graduate of Vanderbilt University, where I earned a B.A. in Medici
 - **Repository:** [Predictive Analysis of Diabetes](https://github.com/nityakari02/predictiveanalysisdiabetes.git)
 
 ### 4. An Analysis of Physicochemical Factors in Red Portuguese 'Vinho Verde' Wine Quality
-- **Description:** Conducted an in-depth analysis of the physicochemical properties of red wine to predict its quality. Applied various statistical methods to analyze the relationship between wine properties and quality, uncovering valuable insights that can inform wine production and quality control processes.
+- **Description:** Executed a comprehensive analysis of the physicochemical properties of red wine to predict its quality. Applied various statistical methods to analyze the relationship between wine properties and quality, uncovering valuable insights that can inform wine production and quality control processes.
 - **Technologies:** R, RStudio, tidyverse, corrplot, psych, caret, glmnet, rms, factoextra, ggplot2, GGally
 - **Repository:** [Physicochemical Wine Quality](https://github.com/nityakari02/physicochemicalwinequality.git)
 
 ### 5. Utilizing Generative AI to Improve Health Literacy: Health Info GPT
-- **Description:** Developed an AI application using OpenAI GPTBuilder to condense complex health information into simpler, more digestible main points, with options for further simplification and translation into other languages like Spanish. This tool will also allow users to highlight specific keywords to locate and understand relevant information efficiently.
+- **Description:** Implemented an AI application using OpenAI GPTBuilder to condense complex health information into simpler, more digestible main points, with options for further simplification and translation into other languages like Spanish. This tool will also allow users to highlight specific keywords to locate and understand relevant information efficiently.
 - **Technologies:** OpenAI GPT Builder, OpenAI Actions, OpenAI Knowledge Base
 - **Repository:** [Health Info GPT](https://github.com/nityakari02/HealthInfoHelper.git)
 
 ### 6. 2024 Spotify Track Popularity Trends
-- **Description:** Developed a comprehensive Tableau dashboard to analyze and visualize Spotify track popularity trends for the year 2024. The dashboard provides insights into various aspects of track performance, the number of top-streamed songs in 2024 from the past 30 years, a ranking of artists based on the number of their songs streamed, and a visualization of albums with the highest number of streamed songs. Additionally, it features an analysis of track scores in relation to their popularity across different streaming platforms and a pie chart showing the proportion of explicit vs. non-explicit top-streamed songs. The dashboard can also filter data based on the explicitness of the song. The project aims to provide valuable insights for music industry stakeholders, artists, and data enthusiasts.
+- **Description:** Designed a detailed Tableau dashboard to analyze and visualize Spotify track popularity trends for the year 2024. The dashboard provides insights into various aspects of track performance, the number of top-streamed songs in 2024 from the past 30 years, a ranking of artists based on the number of their songs streamed, and a visualization of albums with the highest number of streamed songs. Additionally, it features an analysis of track scores in relation to their popularity across different streaming platforms and a pie chart showing the proportion of explicit vs. non-explicit top-streamed songs. The dashboard can also filter data based on the explicitness of the song. The project aims to provide valuable insights for music industry stakeholders, artists, and data enthusiasts.
 - **Technologies:** Tableau Desktop, Tableau Server
 - **Repository:** [2024 Spotify Popularity](https://github.com/nityakari02/2024SpotifyPopularity.git)
 
 ### 7. Pew Research Center's American Trends Panel W114 Demographic Dashboard
-- **Description:** Developed a comprehensive Tableau dashboard to analyze and visualize demographic survey data from Pew Research Center's American Trends Panel, specifically from Wave 114 conducted from September 13 to September 18, 2022. The dashboard provides insights into various respondent demographics and key metrics, including participant age, gender, census region, and metropolitan area. The dashboard provides visualizations that are valuable for researchers, policy-makers, and data enthusiasts.
+- **Description:** Created a Tableau dashboard to analyze and visualize demographic survey data from Pew Research Center's American Trends Panel, specifically from Wave 114 conducted from September 13 to September 18, 2022. The dashboard provides insights into various respondent demographics and key metrics, including participant age, gender, census region, and metropolitan area. The dashboard provides visualizations that are valuable for researchers, policy-makers, and data enthusiasts.
 - **Technologies:** Tableau Desktop, Tableau Prep, Tableau Server, R, RStudio, dplyr, tidyr, haven
 - **Repository:** [American Trends Panel W114 Demographics](https://github.com/nityakari02/ATP2024Demographics.git)
 
