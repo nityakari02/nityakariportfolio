@@ -1,5 +1,5 @@
 # Hi, I'm Nitya Kari! Welcome to my Data Science Portfolio.
-This repository is a comprehensive collection of the diverse and impactful Data Science and Data Analysis projects I have undertaken. These projects span academic coursework, self-learning endeavors, and professional experiences, demonstrating my expertise in various data analysis techniques, advanced programming languages, and robust statistical methodologies. Each project showcases my ability to extract meaningful insights from data, solve complex problems, and provide actionable recommendations. I regularly update this portfolio to reflect my latest skills and ongoing professional development.
+This repository is a collection of the diverse and impactful Data Science and Data Analysis projects I have undertaken. These projects span academic coursework, self-learning endeavors, and professional experiences, demonstrating my expertise in various data analysis techniques, advanced programming languages, and robust statistical methodologies. Each project showcases my ability to extract meaningful insights from data, solve complex problems, and provide actionable recommendations. I regularly update this portfolio to reflect my latest skills and ongoing professional development.
 
 ## 🌟 About Me
 
